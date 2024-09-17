@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 -->
 <!-- <code><img src="https://www.pexels.com/photo/orange-rose-flower-in-bloom-during-daytime-39517/" width: "400"></code>  -->
 
-I am a professional Graphic Designer with a passion for design and web development!  
+I am a professional Graphic Designer with a passion for design and web development!
+
+
 I am currently learning: HTML, CSS, JS, C#  
+
+
 Fun Facts: I have been listening to my favourite band for half my life. (Marianas Trench)
