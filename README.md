@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently learning: HTML, CSS, JS, C#
+I am currently learning: HTML, CSS, JS, C#  
 Fun Facts: I have been listening to my favourite band for half my life. (Marianas Trench)
