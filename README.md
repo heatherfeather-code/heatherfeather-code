@@ -1,5 +1,6 @@
 
-![portfolio banner](https://github.com/user-attachments/assets/9015bbd6-dc85-4529-be35-ccf4785b7023)
+<!--![portfolio banner](https://github.com/user-attachments/assets/9015bbd6-dc85-4529-be35-ccf4785b7023) -->
+<img src="https://www.pexels.com/photo/orange-rose-flower-in-bloom-during-daytime-39517/" width="400" height:"300">
 
 ## Hi there 👋
 
