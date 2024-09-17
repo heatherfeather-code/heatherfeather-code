@@ -1,3 +1,6 @@
+
+![portfolio banner](https://github.com/user-attachments/assets/9015bbd6-dc85-4529-be35-ccf4785b7023)
+
 ## Hi there 👋
 
 <!--
