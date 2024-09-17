@@ -2,7 +2,7 @@
 <!--![portfolio banner](https://github.com/user-attachments/assets/9015bbd6-dc85-4529-be35-ccf4785b7023) -->
 <!--<img src="https://www.pexels.com/photo/orange-rose-flower-in-bloom-during-daytime-39517/" width="650" height:"250"> -->
 
-<img src="https://github.com/user-attachments/assets/9015bbd6-dc85-4529-be35-ccf4785b7023" alt="portfolio banner" width="650" height="250">
+<img src="https://github.com/user-attachments/assets/9015bbd6-dc85-4529-be35-ccf4785b7023" alt="portfolio banner" width="900" height="250">
 
 ## Hi there, I'm Heather 👋
 
